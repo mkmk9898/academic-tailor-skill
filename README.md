@@ -1,6 +1,6 @@
 # 学术裁缝 · Academic Tailor
 
-一个从真实论文协作中提炼的 Codex 技能：把文献、代码、数据和实验记录组织成可追溯的论文证据，再完成写作、学术英译、科研图表、Word/WPS 排版和投稿核查。
+（从水导那学习的一点经验，能力有限，希望能帮到你）一个从真实论文协作中提炼的 Codex 技能：把文献、代码、数据和实验记录组织成可追溯的论文证据，再完成写作、学术英译、科研图表、Word/WPS 排版和投稿核查。
 
 **Evidence-grounded assistance for applied machine-learning papers, from research materials to a submission-ready manuscript.** Instructions are primarily in Chinese; Chinese and English manuscript work are supported.
 
