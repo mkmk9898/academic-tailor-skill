@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术裁缝"
+  short_description: "从文献、实验与证据到论文写作、英译、图表排版及投稿核查"
+  default_prompt: "请使用 $academic-tailor，先检查我的现有材料与最新版本，再完成本次论文任务，并说明证据来源和待核实项。"
